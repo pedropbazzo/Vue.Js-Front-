@@ -47,20 +47,20 @@ SPA
 
 040
 
-<img src="https://github.com/pedropbazzo/Teste-Vue.Js-Front/blob/master/src/assets/040.png">
+<img src="https://github.com/pedropbazzo/Teste-Vue.Js-Front-/blob/master/src/assets/040.png">
 
 060
 
-<img src="https://github.com/pedropbazzo/Teste-Vue.Js-Front/blob/master/src/assets/060.png">
+<img src="https://github.com/pedropbazzo/Teste-Vue.Js-Front-/blob/master/src/assets/060.png">
 
 
 080
 
-<img src="https://github.com/pedropbazzo/Teste-Vue.Js-Front/blob/master/src/assets/080.png">
+<img src="https://github.com/pedropbazzo/Teste-Vue.Js-Front-/blob/master/src/assets/080.png">
 
 100
 
-<img src="https://github.com/pedropbazzo/Teste-Vue.Js-Front/blob/master/src/assets/0100.png">
+<img src="https://github.com/pedropbazzo/Teste-Vue.Js-Front-/blob/master/src/assets/0100.png">
 
 # VueFeedbackReaction
 
